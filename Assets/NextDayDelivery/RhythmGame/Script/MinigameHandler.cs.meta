@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2bbc869c4807ed44c9b0ad33ebe519ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - localMG: {instanceID: 0}
+  - minigame: {fileID: 8981002459650884094, guid: ccb0dd611f581ff449cb772755eed124,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
